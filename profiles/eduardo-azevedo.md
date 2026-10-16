@@ -1,7 +1,7 @@
 # Profile: <Seu Nome Completo>
 
-> **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
-> **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
+> **Role atual:** Desenvolvedor  FullStack
+> **Status:** Aprendendo DevSecOps
 
 ## 🛠️ Stack Principal
 - [Tecnologia/Ferramenta 1]
